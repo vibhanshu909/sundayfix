@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.js": "/sundayfix/static/js/main.507192ae.chunk.js",
+    "main.js.map": "/sundayfix/static/js/main.507192ae.chunk.js.map",
+    "runtime-main.js": "/sundayfix/static/js/runtime-main.ddffe977.js",
+    "runtime-main.js.map": "/sundayfix/static/js/runtime-main.ddffe977.js.map",
+    "static/css/2.1c7f1143.chunk.css": "/sundayfix/static/css/2.1c7f1143.chunk.css",
+    "static/js/2.f4a9d89d.chunk.js": "/sundayfix/static/js/2.f4a9d89d.chunk.js",
+    "static/js/2.f4a9d89d.chunk.js.map": "/sundayfix/static/js/2.f4a9d89d.chunk.js.map",
+    "index.html": "/sundayfix/index.html",
+    "static/css/2.1c7f1143.chunk.css.map": "/sundayfix/static/css/2.1c7f1143.chunk.css.map",
+    "static/js/2.f4a9d89d.chunk.js.LICENSE.txt": "/sundayfix/static/js/2.f4a9d89d.chunk.js.LICENSE.txt",
+    "static/media/ArrowRight.693839d1.svg": "/sundayfix/static/media/ArrowRight.693839d1.svg",
+    "static/media/Check.d825b298.svg": "/sundayfix/static/media/Check.d825b298.svg",
+    "static/media/Clock.456523cd.svg": "/sundayfix/static/media/Clock.456523cd.svg",
+    "static/media/Close.2504d5ad.svg": "/sundayfix/static/media/Close.2504d5ad.svg",
+    "static/media/DatePickerLeft.1bc2246b.svg": "/sundayfix/static/media/DatePickerLeft.1bc2246b.svg",
+    "static/media/DatePickerRight.5fe3162e.svg": "/sundayfix/static/media/DatePickerRight.5fe3162e.svg",
+    "static/media/DropdownGlobe.9109f4ee.svg": "/sundayfix/static/media/DropdownGlobe.9109f4ee.svg",
+    "static/media/Edit.1cf50d9e.svg": "/sundayfix/static/media/Edit.1cf50d9e.svg",
+    "static/media/Globe.9e296983.svg": "/sundayfix/static/media/Globe.9e296983.svg",
+    "static/media/Logo.5cd90151.svg": "/sundayfix/static/media/Logo.5cd90151.svg",
+    "static/media/Plus.76b2e2e6.svg": "/sundayfix/static/media/Plus.76b2e2e6.svg",
+    "static/media/Remove.5c3108de.svg": "/sundayfix/static/media/Remove.5c3108de.svg",
+    "static/media/austria.svg": "/sundayfix/static/media/austria.99b234a3.svg",
+    "static/media/china.svg": "/sundayfix/static/media/china.94a91784.svg",
+    "static/media/france.svg": "/sundayfix/static/media/france.0a00ceb7.svg",
+    "static/media/greece.svg": "/sundayfix/static/media/greece.67eb66c2.svg",
+    "static/media/italy.svg": "/sundayfix/static/media/italy.c157e934.svg",
+    "static/media/netherlands.svg": "/sundayfix/static/media/netherlands.d30286ac.svg",
+    "static/media/portugal.svg": "/sundayfix/static/media/portugal.6d40581d.svg",
+    "static/media/slovakia.svg": "/sundayfix/static/media/slovakia.2fb724d5.svg",
+    "static/media/spain.svg": "/sundayfix/static/media/spain.1f934d46.svg",
+    "static/media/sweden.svg": "/sundayfix/static/media/sweden.33c81cf6.svg",
+    "static/media/united-kingdom.svg": "/sundayfix/static/media/united-kingdom.70e4e37f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddffe977.js",
+    "static/css/2.1c7f1143.chunk.css",
+    "static/js/2.f4a9d89d.chunk.js",
+    "static/js/main.507192ae.chunk.js"
+  ]
+}
